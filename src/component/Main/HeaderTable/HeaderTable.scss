@@ -1,0 +1,14 @@
+.header-table {
+  width: 80%;
+  height: auto;
+  display: flex;
+  justify-content: space-evenly;
+  background: rgb(255, 209, 0);
+
+  div {
+    width: 25%;
+    height: auto;
+    text-align: center;
+    border: 1px solid black;
+  }
+}
